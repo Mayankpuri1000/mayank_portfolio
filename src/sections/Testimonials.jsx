@@ -1,4 +1,4 @@
-import { testimonials } from "../constants.js";
+import { testimonials } from "../constants/index.js";
 import TitleHeader from "../components/TitleHeader.jsx";
 import GlowCard from "../components/GlowCard.jsx";
 

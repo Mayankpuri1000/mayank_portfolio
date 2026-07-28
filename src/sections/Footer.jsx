@@ -1,4 +1,4 @@
-import { socialImgs } from "../constants.js";
+import { socialImgs } from "../constants/index.js";
 
 const Footer = () => {
   return (

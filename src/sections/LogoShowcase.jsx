@@ -1,4 +1,4 @@
-import { logoIconsList } from "../constants.js";
+import { logoIconsList } from "../constants/index.js";
 
 const LogoIcon = ({ icon }) => {
   return (
