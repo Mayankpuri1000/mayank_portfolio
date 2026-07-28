@@ -7,7 +7,7 @@ import Hero from "./sections/Hero.jsx";
 import ShowcaseSection from "./sections/ShowcaseSection.jsx";
 import LogoShowcase from "./sections/LogoShowcase.jsx";
 import FeatureCards from "./sections/FeatureCards.jsx";
-import Navbar from "./components/NavBar.jsx";
+import Navbar from "./components/Navbar.jsx";
 
 const App = () => (
   <>
