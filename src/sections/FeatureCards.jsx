@@ -1,4 +1,4 @@
-import { abilities } from "../constants";
+import { abilities } from "../constants.js";
 
 const FeatureCards = () => (
   <div className="w-full padding-x-lg">

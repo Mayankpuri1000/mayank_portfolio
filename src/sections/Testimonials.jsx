@@ -1,6 +1,6 @@
-import { testimonials } from "../constants";
-import TitleHeader from "../components/TitleHeader";
-import GlowCard from "../components/GlowCard";
+import { testimonials } from "../constants.js";
+import TitleHeader from "../components/TitleHeader.jsx";
+import GlowCard from "../components/GlowCard.jsx";
 
 const Testimonials = () => {
   return (

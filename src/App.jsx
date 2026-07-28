@@ -1,13 +1,13 @@
-import Testimonials from "./sections/Testimonials";
-import Footer from "./sections/Footer";
-import Contact from "./sections/Contact";
-import TechStack from "./sections/TechStack";
-import Experience from "./sections/Experience";
-import Hero from "./sections/Hero";
-import ShowcaseSection from "./sections/ShowcaseSection";
-import LogoShowcase from "./sections/LogoShowcase";
-import FeatureCards from "./sections/FeatureCards";
-import Navbar from "./components/NavBar";
+import Testimonials from "./sections/Testimonials.jsx";
+import Footer from "./sections/Footer.jsx";
+import Contact from "./sections/Contact.jsx";
+import TechStack from "./sections/TechStack.jsx";
+import Experience from "./sections/Experience.jsx";
+import Hero from "./sections/Hero.jsx";
+import ShowcaseSection from "./sections/ShowcaseSection.jsx";
+import LogoShowcase from "./sections/LogoShowcase.jsx";
+import FeatureCards from "./sections/FeatureCards.jsx";
+import Navbar from "./components/NavBar.jsx";
 
 const App = () => (
   <>
